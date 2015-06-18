@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ThingLearn</title>
+    <description>ThingLearn is a Curriculum. It&#39;s a Community. It&#39;s also a lot of fun! Let&#39;s learn about the Internet of Things together!</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 18 Jun 2015 11:10:32 -0500</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2015 11:10:32 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>Squishy Circuits</title>
+        <description>&lt;p&gt;Intro&lt;/p&gt;
+
+&lt;h5 id=&quot;essentials-covered&quot;&gt;Essentials Covered:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;essentials&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;materials&quot;&gt;Materials:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;stuff to buy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;project-instructions&quot;&gt;Project Instructions:&lt;/h5&gt;
+
+&lt;p&gt;Link to Project Page on Hackster.io&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2015 00:00:00 -0500</pubDate>
+        <link>/beginner%20projects/2015/06/17/squishy-circuits/</link>
+        <guid isPermaLink="true">/beginner%20projects/2015/06/17/squishy-circuits/</guid>
+        
+        
+        <category>beginner projects</category>
+        
+      </item>
+    
+      <item>
+        <title>What is Electricity?</title>
+        <description>&lt;h5 id=&quot;what-is-electricity&quot;&gt;What is Electricity?&lt;/h5&gt;
+
+&lt;p&gt;article&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Jun 2015 00:00:00 -0500</pubDate>
+        <link>/essentials/2015/06/05/essentials1/</link>
+        <guid isPermaLink="true">/essentials/2015/06/05/essentials1/</guid>
+        
+        
+        <category>essentials</category>
+        
+      </item>
+    
+      <item>
+        <title>What is A Circuit?</title>
+        <description>&lt;h5 id=&quot;what-is-a-circuit&quot;&gt;What is a Circuit?&lt;/h5&gt;
+
+&lt;p&gt;article&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Jun 2015 00:00:00 -0500</pubDate>
+        <link>/essentials/2015/06/04/essentials2/</link>
+        <guid isPermaLink="true">/essentials/2015/06/04/essentials2/</guid>
+        
+        
+        <category>essentials</category>
+        
+      </item>
+    
+      <item>
+        <title>What is A Resistor?</title>
+        <description>&lt;h5 id=&quot;what-is-a-resistor&quot;&gt;What is A Resistor?&lt;/h5&gt;
+
+&lt;p&gt;article&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Jun 2015 00:00:00 -0500</pubDate>
+        <link>/essentials/2015/06/03/essentials3/</link>
+        <guid isPermaLink="true">/essentials/2015/06/03/essentials3/</guid>
+        
+        
+        <category>essentials</category>
+        
+      </item>
+    
+      <item>
+        <title>Beginner Projects</title>
+        <description>
+</description>
+        <pubDate>Wed, 03 Jun 2015 00:00:00 -0500</pubDate>
+        <link>/projects/2015/06/03/beginner/</link>
+        <guid isPermaLink="true">/projects/2015/06/03/beginner/</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Intermediate Projects</title>
+        <description>
+</description>
+        <pubDate>Tue, 02 Jun 2015 00:00:00 -0500</pubDate>
+        <link>/projects/2015/06/02/intermediate/</link>
+        <guid isPermaLink="true">/projects/2015/06/02/intermediate/</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>What is an LED?</title>
+        <description>&lt;h5 id=&quot;what-is-an-led&quot;&gt;What is an LED?&lt;/h5&gt;
+
+&lt;p&gt;article&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Jun 2015 00:00:00 -0500</pubDate>
+        <link>/essentials/2015/06/02/essentials4/</link>
+        <guid isPermaLink="true">/essentials/2015/06/02/essentials4/</guid>
+        
+        
+        <category>essentials</category>
+        
+      </item>
+    
+      <item>
+        <title>How Does Wiring Work?</title>
+        <description>&lt;h5 id=&quot;how-does-wiring-work&quot;&gt;How Does Wiring Work?&lt;/h5&gt;
+
+&lt;p&gt;article&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2015 00:00:00 -0500</pubDate>
+        <link>/essentials/2015/06/01/essentials5/</link>
+        <guid isPermaLink="true">/essentials/2015/06/01/essentials5/</guid>
+        
+        
+        <category>essentials</category>
+        
+      </item>
+    
+      <item>
+        <title>Advanced Projects</title>
+        <description>
+</description>
+        <pubDate>Mon, 01 Jun 2015 00:00:00 -0500</pubDate>
+        <link>/projects/2015/06/01/advanced/</link>
+        <guid isPermaLink="true">/projects/2015/06/01/advanced/</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+  </channel>
+</rss>

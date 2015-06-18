@@ -1,0 +1,10 @@
+---
+layout: default
+title: Advanced Projects
+description: Make a robot, take flight, detect movement and interact with your surroundings
+link: advanced
+date: 2015-06-01
+img: r3.png
+alt: advanced projects
+category: Projects
+---
