@@ -3,11 +3,9 @@ layout: post
 title: What is Electricity?
 date: 2015-06-05
 category: Essentials
-caption: Electricity is...
+caption: Learn about this basic building block of nature that gets your electronics up and running
 url: what-is-electricity
 ---
-
-#####What is Electricity?
 
 Electricity is found in nature, like in lightning bolts, and it also is used to power our electronic products. Electricity is **the flow of an electric charge**.
 
@@ -34,4 +32,6 @@ We can create circuits to allow current to flow freely and in a controlled manne
 We push electrons around by means of an **electric field**: a large source of negative charges that can push electrons around towards a positive charge.
 
 A **battery** is a source of **voltage** that can push electrons.
+
+For a more detailed writeup on electricity, visit [SparkFun](https://learn.sparkfun.com/tutorials/what-is-electricity).
 
