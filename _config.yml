@@ -7,7 +7,7 @@ color:
   primary: 3F95D9
   secondary: FDC004
   secondary-dark: 0B80D9
-  link: ECECFB
+  link: 3F9F3F
   
 # Footer settings
 footer:
@@ -36,4 +36,4 @@ credits: 'A project by <a href="http://www.ladeezfirstmedia.com">Ladeez First Me
 markdown: kramdown
 permalink: pretty
 
-baseurl: /thinglearn
+# baseurl: /thinglearn

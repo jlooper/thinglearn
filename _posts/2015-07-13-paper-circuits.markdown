@@ -26,46 +26,46 @@ Intro
 
 !["step 1"]({{ site.baseurl }}/img/paper-circuits/1.JPG)
 
-1. Fold an 8.5 inch by 11 inch piece of card stock in quarters. Unfold the paper and cut a small circle in the upper right hand quarter where you want the LED to shine through. When you refold the card, you should see the hole on the right-hand side of the card.
+Step 1. Fold an 8.5 inch by 11 inch piece of card stock in quarters. Unfold the paper and cut a small circle in the upper right hand quarter where you want the LED to shine through. When you refold the card, you should see the hole on the right-hand side of the card.
 
 !["step 2"]({{ site.baseurl }}/img/paper-circuits/2.JPG)
 
-2. Cut 1 inch on the fold at the right side of the unfolded paper to make a corner to hold the battery. Fold down this corner and fold up the bottom right-hand corner of the card
+Step 2. Cut 1 inch on the fold at the right side of the unfolded paper to make a corner to hold the battery. Fold down this corner and fold up the bottom right-hand corner of the card
 
 !["step 3"]({{ site.baseurl }}/img/paper-circuits/3.JPG)
 
-3. Create a triangle with 3 pieces of copper tape. The corners should not touch. Extend the top of the tape to the top of the folded-down corner on the upper right, where the battery will rest.
+Step 3. Create a triangle with 3 pieces of copper tape. The corners should not touch. Extend the top of the tape to the top of the folded-down corner on the upper right, where the battery will rest.
 
 >Tip: You can cut the copper tape in half lengthwise to conserve your tape. Make sure to flatten the tape with your fingers, nails, or a credit card to make it conduct better.
 
 !["step 4"]({{ site.baseurl }}/img/paper-circuits/4.JPG)
 
-4. Add a piece of tape along the folded-up corner at the bottom. This is where your circuit will onnect when you press the corner down, so make sure the tape on the corners intersects both lines of tape.
+Step 4. Add a piece of tape along the folded-up corner at the bottom. This is where your circuit will onnect when you press the corner down, so make sure the tape on the corners intersects both lines of tape.
 
 !["step 5"]({{ site.baseurl }}/img/paper-circuits/5.JPG)
 
-5. Place a Chibitronics LED sticker with the point up so that the point touches the upper tape and the base of the sticker touches the lower tape. Press it down well.
+Step 5. Place a Chibitronics LED sticker with the point up so that the point touches the upper tape and the base of the sticker touches the lower tape. Press it down well.
 
 !["step 6"]({{ site.baseurl }}/img/paper-circuits/6.JPG)
 
-6. Place a battery, smooth side up, so that it is sandwiched by the tape - one part of the tape should be underneath the battery and the other piece of tape should touch the top of the battery when you fold down the corner. Clamp the battery in with the binder clip.
+Step 6. Place a battery, smooth side up, so that it is sandwiched by the tape - one part of the tape should be underneath the battery and the other piece of tape should touch the top of the battery when you fold down the corner. Clamp the battery in with the binder clip.
 
 !["step 7"]({{ site.baseurl }}/img/paper-circuits/7.JPG)
 
-7. Press the bottom corner up so that the circuit is complete. The LED should light up!
+Step 7. Press the bottom corner up so that the circuit is complete. The LED should light up!
 
 !["step 8"]({{ site.baseurl }}/img/paper-circuits/8.JPG)
 
-8. Fold the card back over itself so that the circuitry is covered. You can use some glue dots if you like to keep the folds closed.
+Step 8. Fold the card back over itself so that the circuitry is covered. You can use some glue dots if you like to keep the folds closed.
 
 !["step 9"]({{ site.baseurl }}/img/paper-circuits/9.JPG)
 
-9. Decorate your card! Now you can get creative.
+Step 9. Decorate your card! Now you can get creative.
 
 !["step 10"]({{ site.baseurl }}/img/paper-circuits/10.JPG)
 
-10. The final product!
+Step 10. The final product!
 
 >Troubleshooting: If your LED won't light up, test your battery. It's likely the little coin battery is dead. Make sure your circuit is complete with each part in place. The copper tape shouldn't touch other pieces of tape except where the connection is made at the bottom.
 
-With Credit to the MIT Lifelong Kindergarten program and [Chibitronics](http://chibitronics.com)! 
+With credit to the [MIT Lifelong Kindergarten program](https://llk.media.mit.edu/) and [Chibitronics](http://chibitronics.com)! 
