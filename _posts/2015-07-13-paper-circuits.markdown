@@ -7,7 +7,6 @@ caption: Make a Light-Up Greeting Card
 archive: Projects
 url: paper-circuits
 ---
-Intro
 
 #####Essentials Covered:
 
