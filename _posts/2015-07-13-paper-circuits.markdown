@@ -11,7 +11,7 @@ Intro
 
 #####Essentials Covered:
 
-* [What is Electricity]("/essentials/2015/06/05/essentials1")
+* [What is Electricity](essentials/2015/06/05/essentials1)
 
 #####Materials:
 
@@ -19,11 +19,12 @@ Intro
 * 1 Chibitronics LED sticker
 * 1 foot copper tape
 * 1 medium binder clip
+* 1 3V coin battery
 * materials for decorating card
 
 #####Project Instructions:
 
-!["step 1"]("/img/paper-circuits/1.JPG")
+!["step 1"]("img/paper-circuits/1.JPG")
 1. Fold an 8.5 inch by 11 inch piece of card stock in quarters. Unfold the paper and cut a small circle in the upper right hand quarter where you want the LED to shine through. When you refold the card, you should see the hole on the right-hand side of the card.
 
 !["step 2"]("/img/paper-circuits/2.JPG")
