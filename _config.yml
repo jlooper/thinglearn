@@ -36,4 +36,4 @@ credits: 'A project by <a href="http://www.ladeezfirstmedia.com">Ladeez First Me
 markdown: kramdown
 permalink: pretty
 
-baseurl: /thinglearn
+#baseurl: /thinglearn
