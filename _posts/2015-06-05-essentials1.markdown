@@ -4,7 +4,7 @@ title: What is Electricity?
 date: 2015-06-05
 category: Essentials
 caption: Learn about this basic building block of nature that gets your electronics up and running
-url: what-is-electricity
+external-link: what-is-electricity
 ---
 
 Electricity is found in nature, like in lightning bolts, and it also is used to power our electronic products. Electricity is **the flow of an electric charge**.
