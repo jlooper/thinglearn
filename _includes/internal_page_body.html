@@ -1,0 +1,45 @@
+
+    <!-- Section Grid Section -->
+    <section id="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>{{page.title}}</h2>                    
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-2 portfolio-item">
+                    <img class="img-responsive centered" src="{{ site.baseurl }}/img/{{page.thumbnail}}" alt="">
+                </div>
+                {% for post in site.posts %}
+                {% if post.category == {{page.title}} %}
+                    <div class="col-sm-8 portfolio-item">
+
+                        <div class="caption">
+                            <h3>
+                                <a class="post-link" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            </h3>
+
+                            <p class="copy">
+                                {{post.caption}}
+                            </p>
+                        </div>
+                    </div>
+                 {% endif %}
+                {% endfor %}
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">                    
+                    <ins class="adsbygoogle"
+                        style="display:block;"
+                        data-ad-client="ca-pub-7082385269825044"
+                        data-ad-slot="5517615611"
+                        data-ad-format="horizontal">
+                    </ins>                    
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                </div>
+            </div>                        
+        </div>
+    </section>

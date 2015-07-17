@@ -1,0 +1,10 @@
+---
+layout: post
+title: Adafruit
+date: 2015-06-17
+category: Resources
+caption: Go to Adafruit when you need to buy the bits and pieces you need to complete a project. The most extensive IoT store on the internet, great video content too!
+archive: Resources
+external-link: https://www.adafruit.com
+---
+
