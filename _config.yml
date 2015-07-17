@@ -11,7 +11,7 @@ color:
   
 # Footer settings
 footer:
-  copyright: <a href="http://www.ladeezfirstmedia.com">Ladeez First Media</a>
+  copyright: <a class="lite" href="http://www.ladeezfirstmedia.com">Ladeez First Media</a>
   location: We're local!
   social: Find Us Around the Web
   credits: Built with Love
