@@ -1,12 +1,8 @@
 ---
 layout: post
-title: How Does Wiring Work?
+title: What is wiring?
 date: 2015-06-01
 category: Essentials
-caption: Wiring...
+caption: Wiring is...
 url: how-does-wiring-work
 ---
-
-#####How Does Wiring Work?
-
-article
