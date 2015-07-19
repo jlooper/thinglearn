@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Squishy Circuits
-date: 2015-17-18
+date: 2015-07-18
 category: Beginner Projects
 caption: Make a Dough Frankenstein and bring him to LIFE!
 archive: Projects
