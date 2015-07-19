@@ -17,6 +17,7 @@ Electricity is found in nature, like in lightning bolts, and it also is used to 
 - Neutrons have no charge
 
 Electrostatic force causes positive and negative charged types ot be attracted to each other, whereas like-charged types will repel.
+
 So electrons are attracted to protons, rotating around an atom's charged protons. If we exert electrostatic force on atoms, we can eject electrons far from their protons to create **free electrons**.
 
 The free electrons find a new atom to which they can attach themselves. The movement of the electrons from atom to atom is called **electrical current**
