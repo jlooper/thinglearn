@@ -9,9 +9,9 @@ external-link: what-is-electricity
 
 Electricity is found in nature, like in lightning bolts, and it also is used to power our electronic products. Electricity is **the flow of an electric charge**.
 
-- All matter has charge
+- All matter contains both positive and negative charges
 - Charge is either positive or negative
-- Atoms, made up of neutrons, electrons, and protons, make up matter
+- Atoms, which are made up of neutrons, electrons, and protons, make up matter
 - Electrons carry negative charge
 - Protons carry positive charge
 - Neutrons have no charge
@@ -20,7 +20,7 @@ Electrostatic force causes positive and negative charged types ot be attracted t
 
 So electrons are attracted to protons, rotating around an atom's charged protons. If we exert electrostatic force on atoms, we can eject electrons far from their protons to create **free electrons**.
 
-The free electrons find a new atom to which they can attach themselves. The movement of the electrons from atom to atom is called **electrical current**
+The free electrons can be moved by electrostatic force. The movement of the electrons is called **electrical current**
 
 Atoms that are particularly prone to release their electrons are good **conductors**, like copper or gold. Those that aren't are called **insulators**, like glass and rubber.
 

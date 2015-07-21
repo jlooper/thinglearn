@@ -7,9 +7,10 @@ caption: Circuits are closed loops around which electrical current travels
 url: what-is-a-circuit
 ---
 
-A electrical circuit forms a circle, as its name implies. It is a closed circle around which electrons can travel. It needs to be comprised of some conductive material so that electrons can travel from atom to atom, forming an electrical current. The circuit must form a full circle from an electrical source and back to that source, or the electrons are unable to move.
+A electrical circuit forms a closed loop, as its name implies. It is a circle around which electrons can travel. It needs to be comprised of some conductive material so that electrons can travel from atom to atom, forming an electrical current. The circuit must form a full loop from an electrical source and back to that source, or the electrons are unable to move.
 
 An LED or light or buzzer draws power from the circuit and returns to its source, thus keeping current flowing.
+
 A device that consumes energy flowing through the circuit is called **load**.
 
 There are two basic types of circuits:
