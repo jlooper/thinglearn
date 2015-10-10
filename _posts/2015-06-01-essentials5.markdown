@@ -27,19 +27,19 @@ While a lot of projects can work fine plugging wires into a breadboard or even a
 
 ### Samples
 
-<img src="/img/essentials/soldering/soldering-1.JPG">
+<img src="/img/essentials/soldering-1.JPG">
 
 Soldered joints from the top. The soldering does not seep through very far.
 
-<img src="/img/essentials/soldering/soldering-2.JPG">
+<img src="/img/essentials/soldering-2.JPG">
 
 Soldered joints from the back. You need very little solder to make a good joint, and they should not touch.
 
-<img src="/img/essentials/soldering/soldering-3.JPG">
+<img src="/img/essentials/soldering-3.JPG">
 
 Soldering a component. The final soldered joints look like tiny onion domes.
 
-<img src="/img/essentials/soldering/soldering-4.JPG">
+<img src="/img/essentials/soldering-4.JPG">
 
 Two components soldered together, ready to sense!
 
