@@ -11,7 +11,22 @@ body {
 p,.copy {
     font-size: 20px;
 }
-
+/* Style the code exercise boxes */
+.exercise {
+  border: 1px solid #ccc;
+  border-radius: 0.3em;
+  margin-bottom: 1em;
+}
+.exercise .block {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+.exercise h4 {
+  margin-top: 0;
+  padding: 0.8em;
+  border-bottom: 1px solid #eee;
+  font-size: 1.1em;
+}
 .copy{
     color: #{{ site.color.secondary-dark }};
 }
@@ -54,6 +69,10 @@ h6 {
 
 h3.title{
     color: #{{ site.color.secondary-dark }};
+}
+
+h4 {
+    color: #{{ site.color.link }};
 }
 
 hr.star-light,
