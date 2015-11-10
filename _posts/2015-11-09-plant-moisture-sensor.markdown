@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Quantified Cactus: a plant soil moisture sensor project
+title: The Quantified Cactus - a plant soil moisture sensor project
 date: 2015-11-09
 category: Intermediate Projects
 caption: Create a plant moisture sensor device with an Arduino and Sparkfun sensor, a few lines of code, and a bit of soldering!
