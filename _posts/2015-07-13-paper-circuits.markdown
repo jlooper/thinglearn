@@ -6,5 +6,5 @@ category: Beginner Projects
 caption: Make a Light-Up Greeting Card
 archive: Projects
 url: paper-circuits
-external-link: https://www.hackster.io/agent-hawking-1/create-a-light-up-greeting-card-with-led-stickers
+external-link: https://www.hackster.io/agent-hawking-1/create-a-light-up-greeting-card-with-led-stickers-1bc326
 ---
