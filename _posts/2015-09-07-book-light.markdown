@@ -6,5 +6,5 @@ category: Beginner Projects
 caption: Create a beautiful book light with a silk flower and LEDs
 archive: Projects
 url: book-light
-external-link: https://www.hackster.io/agent-hawking-1/book-light
+external-link: https://www.hackster.io/agent-hawking-1/book-light-dee7e4
 ---

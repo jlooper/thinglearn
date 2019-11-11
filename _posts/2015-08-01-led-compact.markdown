@@ -6,5 +6,5 @@ category: Beginner Projects
 caption: Make a Parallel Circuit Compact Survival Kit with LED track lighting
 archive: Projects
 url: led-compact
-external-link: https://www.hackster.io/agent-hawking-1/create-a-compact-survival-kit
+external-link: https://www.hackster.io/agent-hawking-1/create-a-compact-survival-kit-38bfdb
 ---

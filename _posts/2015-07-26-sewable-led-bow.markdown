@@ -6,5 +6,5 @@ category: Beginner Projects
 caption: Make a Parallel Circuit Sewable bow with LED Sequins
 archive: Projects
 url: led-bow
-external-link: https://www.hackster.io/agent-hawking-1/create-a-parallel-circuit-sewable-accessory-with-led-sequins
+external-link: https://www.hackster.io/agent-hawking-1/create-a-parallel-circuit-sewable-accessory-with-led-sequins-894115
 ---
